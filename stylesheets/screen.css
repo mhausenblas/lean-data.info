@@ -314,7 +314,8 @@ footer span.ribbon-inner p {
   margin: 0;
   color: #e69b95;
   font: bold italic 12px/1 Georgia, Times, “Times New Roman”, serif;
-  padding-bottom:4px;
+  padding-bottom: 4px;
+  padding-top: 4px;
 }
 
 footer span.ribbon-inner a {
@@ -513,6 +514,14 @@ dd {
 dd p:first-child {
   margin-top: 0;
 }
+
+.placeholder {
+  text-align: center;
+  margin: 1.5em 0 0 0;
+  font-family: 'Open Sans', Myriad, Calibri, sans-serif;
+  font-size: 300%;
+}
+
 
 /* Content based headers */
 
