@@ -269,7 +269,7 @@ span.banner-fix {
 
 section#main_content {
   z-index: 2;
-  padding: 100px 82px 0;
+  padding: 50px 120px 0;
   min-height:185px;
 }
 
@@ -513,14 +513,6 @@ dd {
 
 dd p:first-child {
   margin-top: 0;
-}
-
-.sitelink {
-  margin: 10px 0;
-  padding: 0;
-  text-align: center;
-  font-family: 'Open Sans', Myriad, Calibri, sans-serif;
-  font-size: 80%;
 }
 
 #main_content p {
