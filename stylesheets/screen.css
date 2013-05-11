@@ -269,7 +269,7 @@ span.banner-fix {
 
 section#main_content {
   z-index: 2;
-  padding: 20px 82px 0;
+  padding: 100px 82px 0;
   min-height:185px;
 }
 
@@ -515,11 +515,36 @@ dd p:first-child {
   margin-top: 0;
 }
 
-.placeholder {
+.sitelink {
+  margin: 10px 0;
+  padding: 0;
   text-align: center;
+  font-family: 'Open Sans', Myriad, Calibri, sans-serif;
+  font-size: 80%;
+}
+
+#main_content p {
+  padding: .5em 0 0 0;
+  font-family: 'Open Sans', Myriad, Calibri, sans-serif;
+  text-align: justify;
+}
+
+#main_content p img {
+  display: inline;
+  float: right;
+  margin: 5px 0 10px 25px;
+}
+
+.preorder {
+  text-align: left;
   margin: 1.5em 0 0 0;
   font-family: 'Open Sans', Myriad, Calibri, sans-serif;
-  font-size: 300%;
+}
+
+.preorder button {
+  text-align: right;
+  font-size: 110%;
+  margin: 10px 0 0 0;
 }
 
 
