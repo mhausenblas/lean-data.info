@@ -537,6 +537,7 @@ dd p:first-child {
 
 .preorder {
   text-align: left;
+  padding: 0 0 1em 0;
   margin: 1.5em 0 0 0;
   font-family: 'Open Sans', Myriad, Calibri, sans-serif;
 }
