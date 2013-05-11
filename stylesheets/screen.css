@@ -269,8 +269,8 @@ span.banner-fix {
 
 section#main_content {
   z-index: 2;
-  padding: 50px 120px 0;
-  min-height:185px;
+  padding: 50px 100px 0;
+  min-height: 185px;
 }
 
 /* footer */
@@ -524,7 +524,7 @@ dd p:first-child {
 #main_content p img {
   display: inline;
   float: right;
-  margin: 5px 0 10px 25px;
+  margin: 5px 0 8px 20px;
 }
 
 .preorder {
