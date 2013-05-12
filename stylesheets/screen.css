@@ -524,7 +524,7 @@ dd p:first-child {
 #main_content p img {
   display: inline;
   float: right;
-  margin: 5px 0 8px 20px;
+  margin: 5px 0 8px 30px;
 }
 
 #main_content .bottom_notes {
